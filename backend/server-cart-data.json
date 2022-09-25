@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Cartoon Astronaut T-Shirts",
+        "image": "cartoonTshirt1.jpg",
+        "price": 700,
+        "quantity": 2
+    },
+    {
+        "id": 2,
+        "name": "Cartoon Astronaut T-Shirts",
+        "image": "cartoonTshirt2.jpg",
+        "price": 700,
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "Cartoon Astronaut T-Shirts",
+        "image": "cartoonTshirt4.jpg",
+        "price": 700,
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name": "Cartoon Astronaut T-Shirts",
+        "image": "cartoonTshirt5.jpg",
+        "price": 700,
+        "quantity": 1
+    }
+]

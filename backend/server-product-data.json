@@ -1,0 +1,22 @@
+[
+ {"id": 1, "image": "cartoonTshirt1.jpg", "name": "Cartoon Astronaut T-Shirts", "price":700,"cartegory":"shirt"},
+ {"id": 2, "image": "cartoonTshirt2.jpg", "name": "Cartoon Astronaut T-Shirts", "price":700,"cartegory":"dress"},
+ {"id": 3, "image": "cartoonTshirt3.jpg", "name": "Cartoon Astronaut T-Shirts", "price":700,"cartegory":"dress"},
+ {"id": 4, "image": "cartoonTshirt4.jpg", "name": "Cartoon Astronaut T-Shirts", "price":700,"cartegory":"dress"},
+ {"id": 5, "image": "cartoonTshirt5.jpg", "name": "Cartoon Astronaut T-Shirts", "price":700,"cartegory":"dress"},
+ {"id": 6, "image": "cartoonTshirt6.jpg", "name": "Cartoon Astronaut T-Shirts", "price":700,"cartegory":"trouser"},
+ {"id": 7, "image": "cartoonTshirt7.jpg", "name": "Cartoon Astronaut T-Shirts", "price":700,"cartegory":"trouser"},
+ {"id": 8, "image": "cartoonTshirt8.jpg", "name": "Cartoon Astronaut T-Shirts", "price":700,"cartegory":"trouser"},
+ {"id": 9, "image": "arival1.jpg", "name": "New fashion official lady outfit",  "price":2000,"cartegory":"trouser"},
+ {"id": 10, "image": "arival2.jpg", "name": "New fashion Dress", "price":2000,"cartegory":"shirt"},
+ {"id": 11, "image": "arival3.jpg", "name": "New Fashion Dress for kids", "price":4000,"cartegory":"dress"},
+ {"id": 12, "image": "arival4.jpg", "name": "New Fashion Dress ", "price":2000,"cartegory":"cardigan"},
+ {"id": 13, "image": "arival5.jpg", "name": "Fashion Lady body shapers", "price":700,"cartegory":"shirt"},
+ {"id": 14, "image": "arival6.jpg", "name": "Fashion lady Jeans Trousers", "price":1000,"cartegory":"trouser"},
+ {"id": 15, "image": "arival7.jpg", "name": "Men Official Turkey Trousers", "price":1300,"cartegory":"trouser"},
+ {"id": 16, "image": "arival8.jpg", "name": "Men official Khaki Trousers", "price":1000,"cartegory":"trouser"},
+ {"id": 17, "image": "arrival9.jpg", "name": "Blue Bridesmaid Dresses", "price":50000,"cartegory":"Dress"},
+ {"id": 18, "image": "arrival10.jpeg", "name": "Super Dresses", "price":1500,"cartegory":"Dress"},
+ {"id": 19, "image": "arrival11.jpeg", "name": "Super Dresses", "price":1500,"cartegory":"Dress"},
+ {"id": 20, "image": "arrival12.jpeg", "name": "Super Dresses", "price":1500,"cartegory":"Dress"}
+]
